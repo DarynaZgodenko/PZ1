@@ -6,7 +6,7 @@ public class project {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        System.out.print("N = ");
+        System.out.print("Nv = ");
         int N = in.nextInt();
 
         int[][] array = new int[N + 15][N + 15];
